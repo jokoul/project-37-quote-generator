@@ -1,4 +1,4 @@
-# project-37-quote-generator
+# project-37-quote-twitter
 
 ## Description
 
